@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ContaBanco {
       public static void main(String[] args) {
-            // Objeto Scanner para ler a entrada do terminal.
+        
             Scanner scanner = new Scanner(System.in);
             // Solicitação para que o usuário digite o número da agência para armazenar a
             // variável "agencia".
